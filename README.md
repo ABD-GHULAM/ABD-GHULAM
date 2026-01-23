@@ -10,7 +10,7 @@ Senior Software Engineer / Full-Stack Developer with 5+ years of experience buil
 ---
 
 ## 🛠 Key Skills
-- End-to-end web application development  
+- End-to-end web and app development  
 - API design (REST & GraphQL)  
 - Database modeling and ORM (Prisma, TypeORM)  
 - 3D visualizations and animations (Three.js, Framer Motion)  
