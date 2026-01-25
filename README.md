@@ -1,6 +1,6 @@
 Hi, I'm Abdullah 👋
 
-Senior Software Engineer / Full-Stack Developer with 5+ years of experience building scalable, secure web applications. Focused on clean architecture, performance optimization, and delivering production-ready solutions.
+Senior Software Engineer / Full-Stack Developer with 5+ years of experience building scalable, secure web and mobile applications. Focused on clean architecture, performance optimization, and delivering production-ready solutions.
 
 ---
 
