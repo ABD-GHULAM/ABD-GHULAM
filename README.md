@@ -30,11 +30,16 @@ Senior Software Engineer / Full-Stack Developer with 5+ years of experience buil
 ---
 
 ## 🛠 Key Skills
-- End-to-end web and app development  
-- API design (REST & GraphQL)  
-- Database modeling and ORM (Prisma, TypeORM)  
-- 3D visualizations and animations (Three.js, Framer Motion)  
-- Clean architecture and performance optimization  
-- Collaborative development and Agile workflows  
+
+- Full-Stack Web & Mobile Application Development
+- Frontend Development (React, Next.js, TypeScript)
+- Backend Development (Node.js, NestJS, Express.js, Django, PHP)
+- API Design & Development (REST, GraphQL, Django REST Framework)
+- Database Design & ORM (PostgreSQL, MongoDB, Prisma, TypeORM)
+- 3D Web Experiences & Animations (Three.js, Framer Motion)
+- Clean Architecture & Performance Optimization
+- Authentication & Security Best Practices
+- Docker, Git & CI/CD Workflows
+- Agile & Collaborative Software Development
 
 
