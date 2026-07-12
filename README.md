@@ -147,81 +147,6 @@ I believe in writing clean, maintainable code and delivering software that solve
 
 ---
 
-# 🌟 Featured Skills
-
-| Frontend | Backend | Database | DevOps |
-|-----------|----------|-----------|---------|
-| React | Node.js | PostgreSQL | Docker |
-| Next.js | NestJS | MongoDB | Git |
-| TypeScript | Express.js | MySQL | GitHub |
-| Tailwind CSS | Django | Prisma | CI/CD |
-| Three.js | PHP | TypeORM | Linux |
-
----
-
-# 📌 Featured Projects
-
-### 🚀 Enterprise Management System
-
-- Role-Based Authentication
-- Dashboard
-- REST APIs
-- PostgreSQL
-- Docker
-- Secure Architecture
-
----
-
-### 🌐 Modern Business Website
-
-- Next.js
-- React
-- Tailwind CSS
-- SEO Optimization
-- Responsive Design
-
----
-
-### 📱 Mobile Application
-
-- React Native
-- Secure Authentication
-- REST API Integration
-- Production Ready
-
----
-
-### 📊 Analytics Dashboard
-
-- Interactive Charts
-- Data Visualization
-- Real-Time Updates
-- Responsive UI
-
----
-
-# 🎯 Current Focus
-
-- 🔥 System Design
-- ☁ Cloud Computing
-- 🐳 Docker & DevOps
-- ⚡ Performance Optimization
-- 🧠 Artificial Intelligence Integration
-- 🏗 Scalable Software Architecture
-
----
-
-# 🌱 Currently Learning
-
-- Kubernetes
-- AWS
-- Microservices
-- Terraform
-- CI/CD Pipelines
-- Advanced System Design
-
----
-
 # 🤝 Open Source
 
 I enjoy contributing to open-source projects, sharing knowledge, and collaborating with developers around the world.
@@ -231,8 +156,9 @@ If you have an interesting project, feel free to connect!
 ---
 
 # 💬 Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</p>
 
 ---
 
@@ -240,21 +166,15 @@ If you have an interesting project, feel free to connect!
 
 <p align="center">
 
-<a href="https://github.com/ABD-GHULAM">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<!-- Replace these with your actual links -->
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/abdullah-ghulam-116b1a332">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:abdullahghulam2004@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://abdullah-ghulam.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
