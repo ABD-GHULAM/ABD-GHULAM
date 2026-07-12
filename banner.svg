@@ -1,0 +1,79 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Abdullah Ghulam - Full-Stack Developer</title>
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0B1220"/>
+    <stop offset="55%" stop-color="#1E3A8A"/>
+    <stop offset="100%" stop-color="#0EA5E9"/>
+  </linearGradient>
+  <linearGradient id="cubeTop" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7DD3FC"/>
+    <stop offset="100%" stop-color="#38BDF8"/>
+  </linearGradient>
+  <linearGradient id="cubeLeft" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0EA5E9"/>
+    <stop offset="100%" stop-color="#0369A1"/>
+  </linearGradient>
+  <linearGradient id="cubeRight" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#1E40AF"/>
+    <stop offset="100%" stop-color="#0F1E4D"/>
+  </linearGradient>
+</defs>
+
+<rect width="1200" height="300" fill="url(#bg)"/>
+
+<g opacity="0.5">
+  <circle cx="120" cy="60" r="3" fill="#7DD3FC">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -14; 0 0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="230" r="2.5" fill="#BAE6FD">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 12; 0 0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="180" r="2" fill="#7DD3FC">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="70" r="2.5" fill="#BAE6FD">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 10; 0 0" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1150" cy="220" r="3" fill="#7DD3FC">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -12; 0 0" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="40" y="120" font-family="monospace" font-size="26" fill="#7DD3FC" opacity="0.25">&lt;/&gt;</text>
+  <text x="1020" y="260" font-family="monospace" font-size="22" fill="#BAE6FD" opacity="0.2">{ }</text>
+  <text x="90" y="260" font-family="monospace" font-size="20" fill="#BAE6FD" opacity="0.2">;</text>
+</g>
+
+<g transform="translate(950,150)">
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-6 0 0;6 0 0;-6 0 0" dur="7s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="3.5s" repeatCount="indefinite" additive="sum"/>
+      <polygon points="0,-60 52,-30 0,0 -52,-30" fill="url(#cubeTop)"/>
+      <polygon points="-52,-30 0,0 0,60 -52,30" fill="url(#cubeLeft)"/>
+      <polygon points="0,0 52,-30 52,30 0,60" fill="url(#cubeRight)"/>
+    </g>
+  </g>
+
+  <g>
+    <animateMotion dur="6s" repeatCount="indefinite" path="M 90,0 A 90,90 0 1,1 89.9,0 Z"/>
+    <circle r="5" fill="#7DD3FC"/>
+  </g>
+  <g>
+    <animateMotion dur="9s" repeatCount="indefinite" path="M -75,0 A 75,45 0 1,0 -74.9,0 Z"/>
+    <circle r="4" fill="#BAE6FD"/>
+  </g>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" repeatCount="indefinite"/>
+  <text x="90" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#F8FAFC">Abdullah Ghulam</text>
+</g>
+
+<text x="92" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#BAE6FD">Full-Stack Developer</text>
+<text x="330" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#7DD3FC">|</text>
+<text x="350" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#BAE6FD">Software Engineer</text>
+
+<rect x="620" y="172" width="12" height="22" fill="#7DD3FC">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</svg>
