@@ -89,7 +89,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ABD-GHULAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
 </p>
 
@@ -104,17 +104,6 @@
 > Replace `your-github-username` in the image URLs above with your actual GitHub username to activate these live stats.
 
 ---
-
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Project Name](https://github.com/your-username/project-1)** | One-line description of what it does and the problem it solves | Next.js, NestJS, PostgreSQL |
-| **[Project Name](https://github.com/your-username/project-2)** | One-line description of what it does and the problem it solves | React, Three.js, Framer Motion |
-| **[Project Name](https://github.com/your-username/project-3)** | One-line description of what it does and the problem it solves | Django, DRF, Docker |
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
