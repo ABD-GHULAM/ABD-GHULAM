@@ -29,7 +29,7 @@ Building scalable, secure and modern web applications.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=3&width=100%"/>
 
 # 🚀 Tech Stack
 
@@ -37,33 +37,19 @@ Building scalable, secure and modern web applications.
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,python,django,php,postgres,mongodb,mysql,docker,git,github,tailwind,threejs,vscode,postman,figma&perline=7"/>
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ABD-GHULAM&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABD-GHULAM&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=3&width=100%"/>
 
 # 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABD-GHULAM&theme=tokyo-night)](https://github.com/ABD-GHULAM)
 
----
+### 🐍 Contribution Snake
 
-# 🛠 Technologies
+<p align="center">
+<img src="https://raw.githubusercontent.com/ABD-GHULAM/ABD-GHULAM/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation"/>
+</p>
 
-| Frontend | Backend | Database | DevOps |
-|-----------|----------|----------|---------|
-| React | NestJS | PostgreSQL | Docker |
-| Next.js | Node.js | MongoDB | Git |
-| TypeScript | Express | MySQL | GitHub |
-| Tailwind CSS | Django | Prisma | Linux |
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=3&width=100%"/>
 
 # 💬 Quote
 
@@ -71,7 +57,7 @@ Building scalable, secure and modern web applications.
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=3&width=100%"/>
 
 # 🌐 Connect
 
