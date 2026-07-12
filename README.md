@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="GitHub Banner"/>
+<img src="./banner.svg" width="100%" alt="GitHub Banner"/>
 
 # 👋 Hi, I'm Abdullah Ghulam
 ###  Software Engineer | Full-Stack Developer
