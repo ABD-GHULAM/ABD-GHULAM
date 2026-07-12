@@ -4,27 +4,21 @@
 
 # 👋 Hi, I'm Abdullah Ghulam
 
-### 🚀 Senior Software Engineer • Full-Stack Developer • Software Architect
+### 🚀 Full-Stack Developer | Software Engineer
 
 <p>
-Building scalable, secure and production-ready web & mobile applications with modern technologies.
+Building scalable, secure and modern web applications.
 </p>
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;NestJS+%7C+Django+%7C+Python+%7C+PHP;Building+Scalable+Applications;Clean+Architecture+%7C+Performance+Optimization;Always+Learning+New+Technologies"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+NestJS;Node.js+%7C+Python+%7C+PHP;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 
-<p>
+<br>
+
 <a href="https://github.com/ABD-GHULAM">
-<img src="https://img.shields.io/github/followers/ABD-GHULAM?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/ABD-GHULAM?style=for-the-badge"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=ABD-GHULAM&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/ABD-GHULAM?affiliations=OWNER&style=for-the-badge"/>
-</p>
-
-<p>
 
 <a href="https://www.linkedin.com/in/abdullah-ghulam-116b1a332">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -38,114 +32,27 @@ Building scalable, secure and production-ready web & mobile applications with mo
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-</p>
-
 </div>
 
 ---
 
-# 💫 About Me
-
-I'm a **Senior Software Engineer** with **5+ years of experience** building enterprise-grade web and mobile applications.
-
-I specialize in designing scalable architectures, developing secure APIs, creating modern user experiences, and optimizing applications for speed, scalability, and maintainability.
-
-I enjoy solving challenging engineering problems and turning ideas into reliable, production-ready software.
-
----
-
-# 🚀 What I Do
-
-- 💻 Full-Stack Web Development
-- 📱 Mobile Application Development
-- ⚙️ Backend API Development
-- ☁️ Cloud-Ready Application Architecture
-- 🏗️ Clean Architecture
-- 🔐 Authentication & Security
-- 🚀 Performance Optimization
-- 🧩 Database Design
-- 🐳 Docker & Deployment
-- 🤝 Agile Team Collaboration
-
----
-
-# 💼 Experience
-
-**Senior Software Engineer**
-
-**5+ Years Experience**
-
-✔ Enterprise Applications
-
-✔ REST APIs
-
-✔ Full-Stack Development
-
-✔ Database Design
-
-✔ Performance Optimization
-
-✔ Software Architecture
-
----
-
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,react,nextjs,nodejs,express,nestjs,django,postgres,mongodb,mysql,docker,git,github,tailwind,threejs,vscode,postman,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,python,django,php,postgres,mongodb,mysql,docker,git,github,tailwind,threejs,vscode,postman,figma&perline=7"/>
 
 </p>
 
 ---
 
-# 💡 Technical Expertise
-
-- Full-Stack Development
-- REST API Development
-- GraphQL APIs
-- Django REST Framework
-- React & Next.js
-- Node.js & NestJS
-- Express.js
-- Python & Django
-- PHP Development
-- PostgreSQL
-- MongoDB
-- Prisma ORM
-- TypeORM
-- Three.js
-- Framer Motion
-- Authentication & Authorization
-- Clean Architecture
-- Software Design Patterns
-- Performance Optimization
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ABD-GHULAM&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABD-GHULAM&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABD-GHULAM&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ABD-GHULAM&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
@@ -157,74 +64,56 @@ I enjoy solving challenging engineering problems and turning ideas into reliable
 
 ---
 
-# 🚀 Current Focus
+# 🛠 Technologies
 
-- 🏗️ Scalable Software Architecture
-- ☁️ Cloud Computing
-- ⚡ Performance Optimization
-- 🧠 AI Integration
-- 🐳 Docker & DevOps
-- 🌐 Modern Web Technologies
-
----
-
-# 🌱 Currently Learning
-
-- Kubernetes
-- AWS
-- Microservices
-- Terraform
-- Advanced System Design
-- CI/CD Pipelines
+| Frontend | Backend | Database | DevOps |
+|-----------|----------|----------|---------|
+| React | NestJS | PostgreSQL | Docker |
+| Next.js | Node.js | MongoDB | Git |
+| TypeScript | Express | MySQL | GitHub |
+| Tailwind CSS | Django | Prisma | Linux |
 
 ---
 
-# ⚡ Fun Facts
+# 📌 Featured Projects
 
-- 💻 I enjoy solving complex software engineering problems.
-- 🚀 Passionate about clean architecture.
-- 🌍 Love learning new technologies.
-- 🤝 Always open to collaboration.
-- 📚 Continuous learner.
+> ⭐ Pin your best repositories on GitHub and they'll appear here.
 
----
-
-# 🤝 Open Source
-
-I enjoy contributing to open-source projects, sharing knowledge, and collaborating with developers worldwide.
-
-If you're working on an interesting project, I'd be happy to connect.
+- 🌐 Portfolio Website
+- 📊 Admin Dashboard
+- 🛒 E-Commerce Platform
+- 📱 Mobile Application
+- 🤖 AI Project
+- ⚙️ REST API
 
 ---
 
-# 💬 Developer Quote
+# 💬 Quote
 
 <p align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 
 <a href="https://github.com/ABD-GHULAM">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abdullah-ghulam-116b1a332">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:abdullahghulam2004@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://abdullah-ghulam.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<a href="https://abdullah-ghulam.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
@@ -233,9 +122,7 @@ If you're working on an interesting project, I'd be happy to connect.
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
-
-*"Code with passion. Build with purpose. Never stop learning."*
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:1E3A8A,100:0EA5E9&section=footer"/>
 
