@@ -1,79 +1,184 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img">
-<title>Abdullah Ghulam - Full-Stack Developer</title>
+<title>Abdullah Ghulam - Full-Stack Developer coding at a multi-monitor desk</title>
 <defs>
   <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#0B1220"/>
-    <stop offset="55%" stop-color="#1E3A8A"/>
+    <stop offset="55%" stop-color="#132A63"/>
     <stop offset="100%" stop-color="#0EA5E9"/>
-  </linearGradient>
-  <linearGradient id="cubeTop" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" stop-color="#7DD3FC"/>
-    <stop offset="100%" stop-color="#38BDF8"/>
-  </linearGradient>
-  <linearGradient id="cubeLeft" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" stop-color="#0EA5E9"/>
-    <stop offset="100%" stop-color="#0369A1"/>
-  </linearGradient>
-  <linearGradient id="cubeRight" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" stop-color="#1E40AF"/>
-    <stop offset="100%" stop-color="#0F1E4D"/>
   </linearGradient>
 </defs>
 
 <rect width="1200" height="300" fill="url(#bg)"/>
 
-<g opacity="0.5">
-  <circle cx="120" cy="60" r="3" fill="#7DD3FC">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -14; 0 0" dur="4s" repeatCount="indefinite"/>
+<g opacity="0.35">
+  <circle cx="70" cy="50" r="2.5" fill="#7DD3FC">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="200" cy="230" r="2.5" fill="#BAE6FD">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 12; 0 0" dur="5s" repeatCount="indefinite"/>
+  <circle cx="120" cy="240" r="2" fill="#BAE6FD">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 8;0 0" dur="5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="60" cy="180" r="2" fill="#7DD3FC">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="6s" repeatCount="indefinite"/>
+  <circle cx="30" cy="150" r="2" fill="#7DD3FC">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1100" cy="70" r="2.5" fill="#BAE6FD">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 10; 0 0" dur="4.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1150" cy="220" r="3" fill="#7DD3FC">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -12; 0 0" dur="5.5s" repeatCount="indefinite"/>
-  </circle>
-  <text x="40" y="120" font-family="monospace" font-size="26" fill="#7DD3FC" opacity="0.25">&lt;/&gt;</text>
-  <text x="1020" y="260" font-family="monospace" font-size="22" fill="#BAE6FD" opacity="0.2">{ }</text>
-  <text x="90" y="260" font-family="monospace" font-size="20" fill="#BAE6FD" opacity="0.2">;</text>
-</g>
-
-<g transform="translate(950,150)">
-  <g>
-    <animateTransform attributeName="transform" type="rotate" values="-6 0 0;6 0 0;-6 0 0" dur="7s" repeatCount="indefinite"/>
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="3.5s" repeatCount="indefinite" additive="sum"/>
-      <polygon points="0,-60 52,-30 0,0 -52,-30" fill="url(#cubeTop)"/>
-      <polygon points="-52,-30 0,0 0,60 -52,30" fill="url(#cubeLeft)"/>
-      <polygon points="0,0 52,-30 52,30 0,60" fill="url(#cubeRight)"/>
-    </g>
-  </g>
-
-  <g>
-    <animateMotion dur="6s" repeatCount="indefinite" path="M 90,0 A 90,90 0 1,1 89.9,0 Z"/>
-    <circle r="5" fill="#7DD3FC"/>
-  </g>
-  <g>
-    <animateMotion dur="9s" repeatCount="indefinite" path="M -75,0 A 75,45 0 1,0 -74.9,0 Z"/>
-    <circle r="4" fill="#BAE6FD"/>
-  </g>
 </g>
 
 <g>
-  <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" repeatCount="indefinite"/>
-  <text x="90" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#F8FAFC">Abdullah Ghulam</text>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4s" repeatCount="indefinite"/>
+  <text x="40" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="#F8FAFC">Abdullah</text>
+  <text x="40" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="#F8FAFC">Ghulam</text>
 </g>
-
-<text x="92" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#BAE6FD">Full-Stack Developer</text>
-<text x="330" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#7DD3FC">|</text>
-<text x="350" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#BAE6FD">Software Engineer</text>
-
-<rect x="620" y="172" width="12" height="22" fill="#7DD3FC">
+<text x="42" y="188" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#BAE6FD">Full-Stack Developer</text>
+<text x="42" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#7DD3FC">Software Engineer</text>
+<rect x="230" y="197" width="10" height="18" fill="#7DD3FC">
   <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
 </rect>
+
+<ellipse cx="790" cy="290" rx="260" ry="8" fill="#000000" opacity="0.25"/>
+
+<rect x="580" y="203" width="420" height="10" rx="2" fill="#8B5A2B"/>
+<rect x="580" y="213" width="420" height="70" rx="4" fill="#6B4423"/>
+
+<g>
+  <rect x="630" y="204" width="50" height="6" rx="2" fill="#1f2937"/>
+  <rect x="645" y="196" width="20" height="10" fill="#1f2937"/>
+  <rect x="600" y="110" width="110" height="80" rx="4" fill="#111827" stroke="#374151" stroke-width="0.5"/>
+  <rect x="606" y="116" width="98" height="68" fill="#0f172a"/>
+  <rect x="612" y="122" width="50" height="4" fill="#38BDF8"/>
+  <rect x="612" y="131" width="70" height="4" fill="#A78BFA"/>
+  <rect x="612" y="140" width="40" height="4" fill="#F7DF1E"/>
+  <rect x="612" y="149" width="60" height="4" fill="#4ADE80"/>
+  <rect x="612" y="158" width="35" height="4" fill="#38BDF8"/>
+</g>
+
+<g>
+  <rect x="765" y="204" width="50" height="6" rx="2" fill="#1f2937"/>
+  <rect x="780" y="196" width="20" height="8" fill="#1f2937"/>
+  <rect x="725" y="95" width="130" height="100" rx="4" fill="#111827" stroke="#374151" stroke-width="0.5"/>
+  <rect x="732" y="102" width="116" height="86" fill="#0f172a"/>
+  <rect x="738" y="110" width="60" height="5" fill="#38BDF8"/>
+  <rect x="738" y="121" width="90" height="5" fill="#A78BFA"/>
+  <rect x="738" y="132" width="50" height="5" fill="#F7DF1E"/>
+  <rect x="738" y="143" width="75" height="5" fill="#4ADE80"/>
+  <rect x="738" y="154" width="45" height="5" fill="#38BDF8"/>
+  <rect x="738" y="165" width="65" height="5" fill="#F472B6">
+    <animate attributeName="width" values="65;20;65" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="805" y="165" width="6" height="5" fill="#F8FAFC">
+    <animate attributeName="opacity" values="1;0;1" dur="0.6s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<g>
+  <rect x="900" y="204" width="50" height="6" rx="2" fill="#1f2937"/>
+  <rect x="915" y="196" width="20" height="10" fill="#1f2937"/>
+  <rect x="880" y="110" width="110" height="80" rx="4" fill="#111827" stroke="#374151" stroke-width="0.5"/>
+  <rect x="886" y="116" width="98" height="68" fill="#0f172a"/>
+  <rect x="892" y="122" width="55" height="4" fill="#4ADE80"/>
+  <rect x="892" y="131" width="35" height="4" fill="#38BDF8"/>
+  <rect x="892" y="140" width="65" height="4" fill="#A78BFA"/>
+  <rect x="892" y="149" width="45" height="4" fill="#F7DF1E"/>
+  <rect x="892" y="158" width="60" height="4" fill="#38BDF8"/>
+</g>
+
+<rect x="590" y="203" width="18" height="18" rx="3" fill="#F8FAFC"/>
+<path d="M608,206 A6,6 0 0 1 608,216" fill="none" stroke="#F8FAFC" stroke-width="2"/>
+<ellipse cx="599" cy="204" rx="9" ry="3" fill="#6B4423"/>
+
+<rect x="615" y="196" width="26" height="8" fill="#e5e7eb" rx="1"/>
+<rect x="613" y="192" width="26" height="8" fill="#cbd5e1" rx="1"/>
+
+<rect x="985" y="200" width="20" height="16" rx="2" fill="#92400e"/>
+<ellipse cx="990" cy="198" rx="8" ry="12" fill="#16a34a"/>
+<ellipse cx="1000" cy="200" rx="8" ry="10" fill="#22c55e"/>
+
+<rect x="740" y="214" width="110" height="16" rx="3" fill="#1f2937"/>
+<line x1="750" y1="219" x2="840" y2="219" stroke="#374151" stroke-width="1"/>
+<line x1="750" y1="225" x2="840" y2="225" stroke="#374151" stroke-width="1"/>
+<ellipse cx="865" cy="222" rx="9" ry="6" fill="#1f2937"/>
+
+<circle cx="793" cy="128" r="21" fill="#3f2a1e"/>
+<rect x="770" y="140" width="45" height="80" rx="10" fill="#374151"/>
+<rect x="768" y="160" width="50" height="60" rx="12" fill="#2563EB"/>
+<circle cx="793" cy="141" r="19" fill="#EAB08A"/>
+
+<rect x="760" y="195" width="12" height="24" rx="6" fill="#2563EB"/>
+<rect x="805" y="195" width="12" height="24" rx="6" fill="#2563EB"/>
+<circle cx="770" cy="217" r="6" fill="#EAB08A"/>
+<circle cx="815" cy="217" r="6" fill="#EAB08A"/>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="3.5s" repeatCount="indefinite"/>
+  <rect x="445" y="50" width="30" height="30" rx="8" fill="#3178C6"/>
+  <text x="460" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">TS</text>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 8;0 0" dur="4s" repeatCount="indefinite"/>
+  <rect x="1115" y="50" width="30" height="30" rx="8" fill="#F7DF1E"/>
+  <text x="1130" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#111827" text-anchor="middle">JS</text>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="4.5s" repeatCount="indefinite"/>
+  <circle cx="985" cy="50" r="16" fill="#0b0b0b" stroke="#7DD3FC" stroke-width="0.5"/>
+  <text x="985" y="55" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#7DD3FC" text-anchor="middle">N</text>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 8;0 0" dur="5s" repeatCount="indefinite"/>
+  <circle cx="615" cy="55" r="3" fill="#61DAFB"/>
+  <ellipse cx="615" cy="55" rx="18" ry="7" fill="none" stroke="#61DAFB" stroke-width="1.5"/>
+  <ellipse cx="615" cy="55" rx="18" ry="7" fill="none" stroke="#61DAFB" stroke-width="1.5" transform="rotate(60 615 55)"/>
+  <ellipse cx="615" cy="55" rx="18" ry="7" fill="none" stroke="#61DAFB" stroke-width="1.5" transform="rotate(120 615 55)"/>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.8s" repeatCount="indefinite"/>
+  <polygon points="435,120 450,128 450,144 435,152 420,144 420,128" fill="#339933"/>
+  <text x="435" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">Nd</text>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 7;0 0" dur="4.2s" repeatCount="indefinite"/>
+  <polygon points="1145,120 1160,128 1160,144 1145,152 1130,144 1130,128" fill="#E0234E"/>
+  <text x="1145" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">Ne</text>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="4.6s" repeatCount="indefinite"/>
+  <path d="M435,190 a15,15 0 0 1 0,30 a15,15 0 0 1 0,-30 Z" fill="#FFD43B"/>
+  <path d="M435,190 a15,15 0 0 1 0,15 h-15 a15,15 0 0 1 15,-15 Z" fill="#4B8BBE"/>
+  <text x="435" y="209" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#111827" text-anchor="middle">Py</text>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 8;0 0" dur="3.6s" repeatCount="indefinite"/>
+  <rect x="1130" y="190" width="30" height="30" rx="15" fill="#777BB4"/>
+  <text x="1145" y="209" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">php</text>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="5.2s" repeatCount="indefinite"/>
+  <rect x="445" y="240" width="30" height="30" rx="8" fill="#2496ED"/>
+  <text x="460" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">Do</text>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 6;0 0" dur="4.4s" repeatCount="indefinite"/>
+  <rect x="1110" y="240" width="30" height="30" rx="8" fill="#06B6D4"/>
+  <text x="1125" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">Tw</text>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.9s" repeatCount="indefinite"/>
+  <circle cx="1085" cy="90" r="15" fill="#F05032"/>
+  <text x="1085" y="94" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">Git</text>
+</g>
+
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 6;0 0" dur="4.8s" repeatCount="indefinite"/>
+  <circle cx="515" cy="90" r="15" fill="#47A248"/>
+  <text x="515" y="94" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">Mo</text>
+</g>
+
 </svg>
