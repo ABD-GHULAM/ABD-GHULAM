@@ -1,48 +1,274 @@
-<p align="center">
-  <img src="./banner.png" alt="GitHub Banner" width="100%">
+```markdown
+<div align="center">
+
+<img src="./banner.png" alt="GitHub Banner" width="100%" />
+
+# Hi 👋 I'm Abdullah Jan
+
+### 🚀 Senior Software Engineer • Full-Stack Developer • Software Architect
+
+<p>
+Building scalable, secure, and high-performance web & mobile applications with modern technologies.
 </p>
-Hi, I'm Abdullah 👋
 
-Senior Software Engineer / Full-Stack Developer with 5+ years of experience building scalable, secure web and mobile applications. Focused on clean architecture, performance optimization, and delivering production-ready solutions.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;NestJS+%7C+Django+%7C+Python+%7C+PHP;Building+Scalable+Production+Applications;Clean+Architecture+%7C+Performance+Optimization;Always+Learning+New+Technologies" />
+</p>
+
+<p>
+  <a href="https://github.com/ABD-GHULAM">
+    <img src="https://img.shields.io/github/followers/ABD-GHULAM?label=Followers&style=for-the-badge"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=ABD-GHULAM&style=for-the-badge"/>
+
+</p>
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 💫 About Me
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-FF6C37?logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?logo=prisma&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-00597B?logo=typeorm&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+I'm a **Senior Software Engineer** with **5+ years of experience** building enterprise-grade web and mobile applications.
+
+I enjoy designing scalable software architectures, building secure APIs, creating modern user experiences, and optimizing applications for speed, maintainability, and long-term growth.
+
+I believe in writing clean, maintainable code and delivering software that solves real-world problems.
+
 ---
 
-## 🛠 Key Skills
+# 🚀 What I Do
 
-- Full-Stack Web & Mobile Application Development
-- Frontend Development (React, Next.js, TypeScript)
-- Backend Development (Node.js, NestJS, Express.js, Django, PHP)
-- API Design & Development (REST, GraphQL, Django REST Framework)
-- Database Design & ORM (PostgreSQL, MongoDB, Prisma, TypeORM)
-- 3D Web Experiences & Animations (Three.js, Framer Motion)
-- Clean Architecture & Performance Optimization
-- Authentication & Security Best Practices
-- Docker, Git & CI/CD Workflows
-- Agile & Collaborative Software Development
+- 💻 Full-Stack Web Development
+- 📱 Mobile Application Development
+- ⚙ Backend API Development
+- ☁ Cloud-Ready Application Architecture
+- 🏗 Clean Architecture
+- 🔐 Authentication & Security
+- 🚀 Performance Optimization
+- 🧩 Database Design
+- 📦 Docker & Deployment
+- 🤝 Agile Team Collaboration
 
+---
 
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,threejs" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" />
+</p>
+
+---
+
+# 💼 Technical Expertise
+
+- Full-Stack Development
+- REST API Development
+- GraphQL APIs
+- Django REST Framework
+- React & Next.js
+- Node.js & NestJS
+- Express.js
+- Python & Django
+- PHP Development
+- PostgreSQL
+- MongoDB
+- Prisma ORM
+- TypeORM
+- Docker
+- Git & GitHub
+- Three.js
+- Framer Motion
+- Authentication & Authorization
+- Clean Architecture
+- Performance Optimization
+- Software Design Patterns
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ABD-GHULAM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABD-GHULAM&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABD-GHULAM&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=ABD-GHULAM&theme=tokyonight&no-frame=true&row=2&column=4)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABD-GHULAM&theme=tokyo-night)](https://github.com/ABD-GHULAM)
+
+---
+
+# 🌟 Featured Skills
+
+| Frontend | Backend | Database | DevOps |
+|-----------|----------|-----------|---------|
+| React | Node.js | PostgreSQL | Docker |
+| Next.js | NestJS | MongoDB | Git |
+| TypeScript | Express.js | MySQL | GitHub |
+| Tailwind CSS | Django | Prisma | CI/CD |
+| Three.js | PHP | TypeORM | Linux |
+
+---
+
+# 📌 Featured Projects
+
+### 🚀 Enterprise Management System
+
+- Role-Based Authentication
+- Dashboard
+- REST APIs
+- PostgreSQL
+- Docker
+- Secure Architecture
+
+---
+
+### 🌐 Modern Business Website
+
+- Next.js
+- React
+- Tailwind CSS
+- SEO Optimization
+- Responsive Design
+
+---
+
+### 📱 Mobile Application
+
+- React Native
+- Secure Authentication
+- REST API Integration
+- Production Ready
+
+---
+
+### 📊 Analytics Dashboard
+
+- Interactive Charts
+- Data Visualization
+- Real-Time Updates
+- Responsive UI
+
+---
+
+# 🎯 Current Focus
+
+- 🔥 System Design
+- ☁ Cloud Computing
+- 🐳 Docker & DevOps
+- ⚡ Performance Optimization
+- 🧠 Artificial Intelligence Integration
+- 🏗 Scalable Software Architecture
+
+---
+
+# 🌱 Currently Learning
+
+- Kubernetes
+- AWS
+- Microservices
+- Terraform
+- CI/CD Pipelines
+- Advanced System Design
+
+---
+
+# 🤝 Open Source
+
+I enjoy contributing to open-source projects, sharing knowledge, and collaborating with developers around the world.
+
+If you have an interesting project, feel free to connect!
+
+---
+
+# 💬 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ABD-GHULAM">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<!-- Replace these with your actual links -->
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+*"Code with passion. Build with purpose. Never stop learning."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+
+</div>
+```
