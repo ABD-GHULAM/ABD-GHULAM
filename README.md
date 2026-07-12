@@ -3,7 +3,7 @@
 <img src="./banner.png" width="100%" alt="GitHub Banner"/>
 
 # 👋 Hi, I'm Abdullah Ghulam
-### 🚀 Full-Stack Developer | Software Engineer
+###  Software Engineer | Full-Stack Developer
 
 <p>
 Building scalable, secure and modern web applications.
@@ -38,10 +38,6 @@ Building scalable, secure and modern web applications.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=3&width=100%"/>
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABD-GHULAM&theme=tokyo-night)](https://github.com/ABD-GHULAM)
 
 ### 🐍 Contribution Snake
 
