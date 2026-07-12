@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="./banner.png" alt="GitHub Banner" width="100%" />
@@ -271,4 +271,4 @@ If you have an interesting project, feel free to connect!
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
 
 </div>
-```
+
