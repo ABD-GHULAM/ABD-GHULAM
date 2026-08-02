@@ -58,9 +58,6 @@ Building scalable, secure and modern web applications.
 # 🌐 Connect
 
 <p align="center">
-<a href="https://github.com/ABD-GHULAM">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
 <a href="https://www.linkedin.com/in/abdullah-ghulam-116b1a332">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
