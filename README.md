@@ -41,19 +41,15 @@ Building scalable, secure and modern web applications.
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="520">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=2&width=180"/>
 
 <br>
 
-<h2>🇦🇫 GitHub Ranking</h2>
+### 🇦🇫 GitHub Contributor Ranking
 
 <p>
-  <strong>Afghanistan · GitHub Contributors</strong>
+  <strong>ABD-GHULAM</strong> · Afghanistan
 </p>
-
-<br>
 
 <a href="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM">
   <img
@@ -63,30 +59,27 @@ Building scalable, secure and modern web applications.
   />
 </a>
 
-<br><br>
+<br>
 
 <p>
-  <sub>🏆 Ranked by GitHub contribution activity</sub>
+  <sub>🏆 Contribution ranking · Updated automatically</sub>
 </p>
 
-<p>
-  <a href="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM">
-    <img
-      src="https://img.shields.io/badge/VIEW%20FULL%20RANKING-1E3A8A?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Full Ranking"
-    />
-  </a>
-</p>
+<a href="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM">
+  <img
+    src="https://img.shields.io/badge/EXPLORE%20RANKING-%230EA5E9?style=flat-square&logo=github&logoColor=white"
+    alt="Explore GitHub Ranking"
+  />
+</a>
 
 <br>
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:1E3A8A&height=2&width=180"/>
 
 <br>
 
 </div>
+
 
 # 🚀 Tech Stack
 
