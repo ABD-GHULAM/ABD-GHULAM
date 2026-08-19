@@ -35,28 +35,58 @@ Building scalable, secure and modern web applications.
 <br><br>
 
 <!-- GitHub Afghanistan Ranking -->
+<!-- GitHub Afghanistan Ranking -->
 
 <div align="center">
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="520">
+
+<br>
+
+<h2>🇦🇫 GitHub Ranking</h2>
+
+<p>
+  <strong>Afghanistan · GitHub Contributors</strong>
+</p>
+
+<br>
 
 <a href="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM">
   <img
     src="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM.svg"
     alt="ABD-GHULAM GitHub Afghanistan Ranking"
-    height="65"
+    height="70"
   />
 </a>
 
-<br>
-
-<sub>🇦🇫 GitHub Contributor · Afghanistan</sub>
-
 <br><br>
 
-</div>
+<p>
+  <sub>🏆 Ranked by GitHub contribution activity</sub>
+</p>
+
+<p>
+  <a href="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM">
+    <img
+      src="https://img.shields.io/badge/VIEW%20FULL%20RANKING-1E3A8A?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Full Ranking"
+    />
+  </a>
+</p>
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=3&width=100%"/>
 
 # 🚀 Tech Stack
 
