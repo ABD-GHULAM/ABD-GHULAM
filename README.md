@@ -36,12 +36,21 @@ Building scalable, secure and modern web applications.
 
 <!-- GitHub Afghanistan Ranking -->
 
+<br>
+
+<h3>🇦🇫 GitHub Contributor Ranking</h3>
+
 <a href="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM">
   <img
     src="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM.svg"
-    alt="GitHub Afghanistan Ranking"
+    alt="ABD-GHULAM GitHub Afghanistan Ranking"
+    height="45"
   />
 </a>
+
+<br>
+<br>
+
 
 </div>
 
