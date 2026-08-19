@@ -35,23 +35,17 @@ Building scalable, secure and modern web applications.
 <br><br>
 
 <!-- GitHub Afghanistan Ranking -->
+<div align="center">
 
-<br>
+<h2>🇦🇫 GitHub Presence</h2>
 
-<h3>🇦🇫 GitHub Contributor Ranking</h3>
+<p> <b>Afghanistan GitHub Contributor Ranking</b> </p>
 
-<a href="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM">
-  <img
-    src="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM.svg"
-    alt="ABD-GHULAM GitHub Afghanistan Ranking"
-    height="45"
-  />
-</a>
+<a href="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM"> <img src="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM.svg" alt="ABD-GHULAM GitHub Afghanistan Ranking" height="55" /> </a>
 
-<br>
-<br>
+<p> <sub>Ranked among GitHub contributors in Afghanistan</sub> </p>
 
-
+</div>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=3&width=100%"/>
