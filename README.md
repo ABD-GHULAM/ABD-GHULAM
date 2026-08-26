@@ -55,7 +55,6 @@ Building scalable, secure and modern web applications.
 
 
 # 🚀 Tech Stack
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,python,django,php,postgres,mongodb,mysql,docker,git,github,tailwind,threejs,vscode,postman,figma&perline=7"/>
 </p>
