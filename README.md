@@ -77,21 +77,6 @@ Building scalable, secure and modern web applications.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=3&width=100%"/>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/abdullah-ghulam-116b1a332">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:abdullahghulam2004@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-<a href="https://abdullah-ghulam.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
