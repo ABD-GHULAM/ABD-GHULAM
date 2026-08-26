@@ -2,10 +2,10 @@
 <img src="./banner.svg" width="100%" alt="GitHub Banner"/>
 
 <h1>👋 Hi, I'm Abdullah Ghulam</h1>
-### Software Engineer | Full-Stack Developer
 
+<h3>Software Engineer | Full-Stack Developer</h3>
 
-Building scalable, secure and modern web applications.
+<p>Building scalable, secure and modern web applications.</p>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+NestJS;Node.js+%7C+Python+%7C+PHP;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
