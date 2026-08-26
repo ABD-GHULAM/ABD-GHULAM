@@ -32,7 +32,7 @@ Building scalable, secure and modern web applications.
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<br><br>
+<br>
 
 <!-- GitHub Afghanistan Ranking -->
 <div align="center">
