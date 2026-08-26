@@ -35,22 +35,14 @@ Building scalable, secure and modern web applications.
 <br><br>
 
 <!-- GitHub Afghanistan Ranking -->
-<!-- GitHub Afghanistan Ranking -->
-
 <div align="center">
-
 <br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=2&width=180"/>
-
 <br>
-
-### 🇦🇫 GitHub Contributor Ranking
-
+### 🇦🇫 GitHub Contributor Rankin
 <p>
   <strong>ABD-GHULAM</strong> · Afghanistan
 </p>
-
 <a href="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM">
   <img
     src="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM.svg"
@@ -58,24 +50,8 @@ Building scalable, secure and modern web applications.
     height="70"
   />
 </a>
-
 <br>
-
-<p>
-  <sub>🏆 Contribution ranking · Updated automatically</sub>
-</p>
-
-<a href="https://user-badge.committers.top/afghanistan_private/ABD-GHULAM">
-  <img
-    src="https://img.shields.io/badge/EXPLORE%20RANKING-%230EA5E9?style=flat-square&logo=github&logoColor=white"
-    alt="Explore GitHub Ranking"
-  />
-</a>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:1E3A8A&height=2&width=180"/>
-
 <br>
 
 </div>
