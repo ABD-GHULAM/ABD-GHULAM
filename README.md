@@ -37,8 +37,6 @@ Building scalable, secure and modern web applications.
 <!-- GitHub Afghanistan Ranking -->
 <div align="center">
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=2&width=180"/>
-<br>
  🇦🇫  GitHub Contributor Ranking
 <p>
   <strong>ABD-GHULAM</strong> · Afghanistan
@@ -53,7 +51,6 @@ Building scalable, secure and modern web applications.
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:1E3A8A&height=2&width=180"/>
 <br>
-
 </div>
 
 
