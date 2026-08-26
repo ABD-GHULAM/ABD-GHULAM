@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./banner.svg" width="100%" alt="GitHub Banner"/>
 
-#👋 Hi, I'm Abdullah Ghulam
+<h1>👋 Hi, I'm Abdullah Ghulam</h1>
 ### Software Engineer | Full-Stack Developer
 
 
